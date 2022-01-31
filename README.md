@@ -1,2 +1,2 @@
 # responsiveNavbar
-Responsive navbar sederhana yang di buat menggunakan HTML, CSS, dan JavaScript 
+Responsive navbar sederhana yang di buat menggunakan HTML(flex), CSS, dan JavaScript 
